@@ -27,8 +27,8 @@ This project implements a robust deep learning framework for classifying potato 
 
 ### Step 1: Clone Repository or Upload Files
 ```bash
-git clone https://github.com/your-username/potato-leaf-blight-detection.git
-cd potato-leaf-blight-detection
+git clone https://github.com/your-username/potato-leaf-blight-detection.git](https://github.com/arunkumardubey/potato-leaf-blight
+cd potato-leaf-blight
 ```
 
 ### Step 2: Install Requirements
